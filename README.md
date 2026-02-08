@@ -8,7 +8,7 @@
 Reduced manual reporting time by 80% and provided near real-time insights to sales teams.
 
 ### **Tech Stack** 
-PySpark, Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Azure SQL Database, Power BI, Key Vaults
+PySpark, Azure Data Factory, ADLS Gen2, Azure Synapse Analytics, Azure Databricks, Azure SQL Database, Unity Catalog, Power BI, Key Vaults
 
 ### **Description**
 1. **Data Ingestion** - Designed two pipelines in Azure Data Factory:
